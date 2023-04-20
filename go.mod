@@ -1,3 +1,3 @@
-module github.com/Huskarl10/is105sem03
+module github.com/huskarl10/is105sem03
 
 go 1.19
